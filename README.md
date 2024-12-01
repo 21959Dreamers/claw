@@ -51,6 +51,7 @@ Here’s the updated version using HTML `width` attribute for the images:
 第五代设计是在与多支队伍交流学习后优化得出的方案。外部结构包覆了碳纤维材料，显著提升了强度与耐用性。该设计在夹持效果上更加紧固可靠，同时抓取样品时的精准度和稳定性达到了全新高度。这一方案成为目前最成熟的设计。  
 
 <img src="v5/1.jpg" width="300">  
+<img src="v5/2.jpg" width="300">  
 
 ---  
 
